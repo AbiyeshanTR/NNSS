@@ -3,7 +3,7 @@
 Matlab implementation of the following paper will be shared soon.
 
 ```bibtex
-Sertbas, Ahmet & Kumbasar, Tufan. (2025). Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification. International Conference of Image Processing, Wavelet and Applications.
+Sertbaş, Ahmet & Kumbasar, Tufan. (2025). Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification. International Conference of Image Processing, Wavelet and Applications.
 
 ```
 
