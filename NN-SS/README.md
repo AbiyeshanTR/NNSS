@@ -5,10 +5,7 @@ This repository provides the **MATLAB implementation** of the Neural Network–b
 > **Sertbaş, Ahmet & Kumbasar, Tufan (2025)**  
 > *Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification*
 
-
----
-
-## 📌 Repository Scope
+## Repository Scope
 
 This repository **only contains source code**.
 
@@ -32,3 +29,4 @@ NNSS/
 ├─ Bayesian.m              % Bayesian optimization utilities (optional)
 ├─ README.md
 └─ LICENSE
+
