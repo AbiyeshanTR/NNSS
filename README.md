@@ -1,9 +1,11 @@
 # Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification
 
-This branch contains:
-- Trained NN-SS models
-- Trained SIMBa and classical subspace models
-- Models trained on Powerplant, Robot Arm, and Two-Tank benchmarks
+## Repository Scope
+
+This repository contains:
+- ✅ Trained NN-SS models
+- ✅ Trained SIMBa and classical subspace models
+- ✅ Models trained on Powerplant, Robot Arm, and Two-Tank benchmarks
 
 The main branch is intentionally kept lightweight and contains **only the source code** required to reproduce the results.  
 
