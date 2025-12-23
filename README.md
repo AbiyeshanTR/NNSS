@@ -1,10 +1,14 @@
 # Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification
 
-Matlab implementation of the following paper:
+This branch contains:
+- Trained NN-SS models
+- SIMBa and classical subspace models
+- Models trained on Powerplant, Robot Arm, and Two-Tank benchmarks
 
-```bibtex
-Sertbaş, Ahmet & Kumbasar, Tufan. (2025). Stable-by-Design Neural Network-Based LPV State-Space Models for System Identification. International Conference of Image Processing, Wavelet and Applications.
+The main branch is intentionally kept lightweight and contains **only the source code** required to reproduce the results.  
 
-```
+Users can either:
+- Download the pretrained models from this dedicated branch, or   
+- Retrain all models using the provided training scripts.
 
-Please cite the above-mentioned paper if you use any functions and publish papers about work performed using these codes.
+This structure ensures reproducibility while complying with GitHub storage constraints.
