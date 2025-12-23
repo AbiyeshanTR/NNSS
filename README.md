@@ -2,7 +2,7 @@
 
 This branch contains:
 - Trained NN-SS models
-- SIMBa and classical subspace models
+- Trained SIMBa and classical subspace models
 - Models trained on Powerplant, Robot Arm, and Two-Tank benchmarks
 
 The main branch is intentionally kept lightweight and contains **only the source code** required to reproduce the results.  
